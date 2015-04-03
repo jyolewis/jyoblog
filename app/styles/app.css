@@ -1,0 +1,15 @@
+body {
+	// padding-top:70px;
+}
+
+.navbar-nav > .active > a {
+	background-color: none;
+}
+nav .active {
+	font-weight: bold;
+
+}
+
+.author_name {
+	opacity: 0.5;
+}
